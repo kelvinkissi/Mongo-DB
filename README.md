@@ -7,11 +7,10 @@
 The actual database is not core data which is what you will usually expect for an App.
 
 
+
 The XCode/Iphone app sending and retrieval configuration diagram: 
 
-
-
-
+![](./Mongo-Configuration/configurationdiagram.jpeg)
 
 
 

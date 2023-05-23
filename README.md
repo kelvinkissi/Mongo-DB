@@ -40,5 +40,22 @@ Node.js
 - brew install node 
 - node -v 
 ````
+VScode - Integrated Terminal 
+````
+- In server.js 
+- npm init 
+- Add sever description 
+- Enter yes for the next following prompts and the Package.json file will be created
+````
+Express.js 
+````
+- npm install express 
+````
+Mongoose
+````
+- npm install mongoose  
+````
+
+
 
 

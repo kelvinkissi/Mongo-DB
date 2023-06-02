@@ -1,7 +1,7 @@
 # Mongo-DB
 
 
-## How to set up a Database and Web Server for a SwiftUI App
+## How to set up a Database and Web Server for an IOS mobile App
 
 
 The actual database is not core data which is what you will usually expect for an App.
